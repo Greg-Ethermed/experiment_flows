@@ -13,7 +13,7 @@ scorcery = { git = "https://github.com/ethermed/scorcery.git", rev = "6f30ca9", 
 backoff = "^2.2.1"
 openai = "0.28.0"
 diskcache = "^5.6.3"
-graph-tools = { git = "git@github.com:ethermed/graph_tools.git", rev = "4eb6a21"}
+graph-tools = { git = "git@github.com:ethermed/graph_tools.git", rev = "50678f7"}
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
